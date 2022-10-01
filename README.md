@@ -18,8 +18,8 @@ I used the latest version of Visual Studio Code to create this program.
 
 # Studied Resources
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+The following are sites that helped me learn to begin programming with Java.
+* [W3 Schools](https://www.w3schools.com/java/default.asp)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
