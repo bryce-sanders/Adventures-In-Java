@@ -1,10 +1,10 @@
-# Overview
+# Overview - Student Information Collector
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project marks my very first venture into the use of the Java programming language. In completing this project, I have the opportunity, not only to learn a very marketable and widely used programming language, but also to demonstrate that I can pick up the basics of new coding languages quickly.
 
 {Provide a description the software that you wrote to demonstrate the Java language.}
 
-{Describe your purpose for writing this software.}
+I am undertaking this project to help me to further my academic progress.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,11 +12,11 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the latest version of Visual Studio Code to create this program.
 
 {Describe the programming language that you used and any libraries.}
 
-# Useful Websites
+# Studied Resources
 
 {Make a list of websites that you found helpful in this project}
 * [Web Site Name](http://url.link.goes.here)
