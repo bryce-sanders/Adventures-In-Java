@@ -18,8 +18,18 @@ public class director {
       
       Scanner in = new Scanner(System.in);  // Create a Scanner object
       System.out.print("Enter Selection: ");
-      String selection = in.nextLine();  // Read user input
+      int selection = in.nextInt();  // Read user input
       in.close();  // Close the Scanner
+
+      if (selection == 1) {
+        System.out.println("1");
+      } else if (selection == 2) {
+        System.out.println("2");
+      } else if (selection == 3) {
+        System.out.println("3");
+      } else {
+        System.out.println("WRONG!");
+      };
     }
   }
   
