@@ -1,11 +1,9 @@
-import java.util.ArrayList;
-
 public class Student {
     private String name;
     private String id;
     private int age;
-    private ArrayList <Semester> semesters = new ArrayList<>();
 
+    // Construct the student with provided arguments
     public Student(String name, String id, int age) {
         this.name = name;
         this.id = id;
@@ -25,10 +23,6 @@ public class Student {
 
     public int getAge() {
         return age;
-    }
-
-    public ArrayList<Semester> getSemesters() {
-        return semesters;
     }
 
 }

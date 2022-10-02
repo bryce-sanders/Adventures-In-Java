@@ -2,7 +2,7 @@
 
 This project marks my very first venture into the use of the Java programming language. In completing this project, I have the opportunity, not only to learn a very marketable and widely used programming language, but also to demonstrate that I can pick up the basics of new coding languages quickly.
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
+This program stores student information. It allows the user to enter the information of a new student and stores it in a file. When the program is closed and re-opened, the user can look up student information entered in the past.
 
 I am undertaking this project to help me to further my academic progress.
 
@@ -14,17 +14,19 @@ I am undertaking this project to help me to further my academic progress.
 
 I used the latest version of Visual Studio Code to create this program.
 
-{Describe the programming language that you used and any libraries.}
+This program is written in Java and makes use of Jackson, “the Java JSON library”, and Maven, a build automation tool that works with Java.
 
 # Studied Resources
 
 The following are sites that helped me learn to begin programming with Java.
 * [W3 Schools](https://www.w3schools.com/java/default.asp)
-* [Web Site Name](http://url.link.goes.here)
+* [geeksforgeeks](https://www.geeksforgeeks.org/how-to-print-colored-text-in-java-console/)
+* [Baeldung](https://www.baeldung.com/java-serialization-approaches)
+* [Apache Maven Project](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* The "Students" file store all information on one line. I will need to learn more about Jackson to fix this.
+* The program does not check if a student already exists. I would like to add this in the future.
+* I intended to create a "Semester" to store students registration information but I ran out of time. I would like to add this in the future as well.
