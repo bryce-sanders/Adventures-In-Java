@@ -6,9 +6,7 @@ This program stores student information. It allows the user to enter the informa
 
 I am undertaking this project to help me to further my academic progress.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=JjiK7uyuswE)
 
 # Development Environment
 
@@ -26,6 +24,6 @@ The following are sites that helped me learn to begin programming with Java.
 
 # Future Work
 
-* The "Students" file store all information on one line. I will need to learn more about Jackson to fix this.
+* The "Students" file stores all information on one line. I will need to learn more about Jackson to fix this.
 * The program does not check if a student already exists. I would like to add this in the future.
 * I intended to create a "Semester" to store students registration information but I ran out of time. I would like to add this in the future as well.
