@@ -26,7 +26,6 @@ The following are sites that helped me learn to begin programming with Java.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * The "Students" file store all information on one line. I will need to learn more about Jackson to fix this.
 * The program does not check if a student already exists. I would like to add this in the future.
 * I intended to create a "Semester" to store students registration information but I ran out of time. I would like to add this in the future as well.
